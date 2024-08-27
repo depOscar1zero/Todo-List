@@ -39,13 +39,3 @@ build/Release
 # Dependency directories
 jspm_packages/
 typings/
-
-.env
-*.local
-
-.vscode/
-.idea/
-*.sublime-workspace
-
-dist/
-build/
